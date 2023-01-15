@@ -18,22 +18,12 @@
 </div>
 
 ###
+<div align="center">
 
 <br clear="both">
 <img src="https://raw.githubusercontent.com/BertayYldrm/BertayYldrm/blob/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="right">
-  <a href="https://www.linkedin.com/in/bertay-y%C4%B1ld%C4%B1r%C4%B1m-017934215/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-<img src="https://profile-counter.glitch.me/BertayYldrm/count.svg?"  />
 
 ###
 
@@ -55,3 +45,9 @@
 | 6A | fract-ol        | [![beyildir's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2927897)](https://github.com/JaeSeoKim/badge42)
 
 ![Profile views](https://gpvc.arturio.dev/beyildir)
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/bertay-y%C4%B1ld%C4%B1r%C4%B1m-017934215/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
