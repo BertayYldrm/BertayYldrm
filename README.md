@@ -2,7 +2,7 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bertayyldrm&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertayyldrm)](https://github.com/anuraghazra/github-readme-stats)
+[![beyildir's 42 stats](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/stats?cursusId=21&coalitionId=229)](https://github.com/bertayyldrm/)
 
 ## Ecole 42 Projects Progress
 | No | Project | Status  |  | No  | Project | Status |  | No | Project     | Status |
