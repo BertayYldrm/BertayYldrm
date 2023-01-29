@@ -36,7 +36,7 @@
 | 4  | get_next_line   | [![beyildir's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2927545)](https://github.com/bertayyldrm/42_Get_Next_Line)
 | 5A | minitalk        | [![beyildir's 42 minitalk Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2927545)](https://github.com/bertayyldrm/42_Minitalk) 
 | 6A | fract-ol        | [![beyildir's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2927897)](https://github.com/bertayyldrm/42_Fract-Ol)
-| 6A | fract-ol        | [![beyildir's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2953029)](https://github.com/bertayyldrm/42_Fract-Ol)
+| 6A | push_swap        | [![beyildir's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2953029)](https://github.com/bertayyldrm/42_Fract-Ol)
 
 ![Profile views](https://gpvc.arturio.dev/beyildir)
 
