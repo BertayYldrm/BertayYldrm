@@ -1,5 +1,3 @@
-### BERTAY YILDIRIM
-
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=BertayYldrm" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=BertayYldrm" height="150" alt="languages graph"  />
@@ -18,18 +16,12 @@
 </div>
 
 ###
-<div align="center">
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/BertayYldrm/BertayYldrm/blob/output/snake.svg" alt="Snake animation" />
-
-
-
-###
 
 
 
 <div align="center">
+
 
 [![beyildir's 42 stats](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/stats?cursusId=21&coalitionId=229)](https://github.com/bertayyldrm/)
 </div>
@@ -42,7 +34,8 @@
 | 3  | ft_printf       | [![beyildir's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl69s5zuh001109m8y8xchgqr/project/2569052)](https://github.com/bertayyldrm/42_Printf) 
 | 4  | get_next_line   | [![beyildir's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2927545)](https://github.com/bertayyldrm/42_Get_Next_Line)
 | 5A | minitalk        | [![beyildir's 42 minitalk Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2927545)](https://github.com/bertayyldrm/42_Minitalk) 
-| 6A | fract-ol        | [![beyildir's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2927897)](https://github.com/JaeSeoKim/badge42)
+| 6A | fract-ol        | [![beyildir's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2927897)](https://github.com/bertayyldrm/42_Fract-Ol)
+| 6A | fract-ol        | [![beyildir's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2953029)](https://github.com/bertayyldrm/42_Fract-Ol)
 
 ![Profile views](https://gpvc.arturio.dev/beyildir)
 
