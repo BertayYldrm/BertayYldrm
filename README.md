@@ -25,6 +25,7 @@
 
 [![beyildir's 42 stats](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/stats?cursusId=21&coalitionId=229)](https://github.com/bertayyldrm/)
 </div>
+<div align="center">
 
 ## Ecole 42 Projects Progress
 | No | Project | Status  |  
