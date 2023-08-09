@@ -37,9 +37,9 @@
 | 5A | minitalk        | [![beyildir's 42 minitalk Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2927545)](https://github.com/bertayyldrm/42_Minitalk) 
 | 6A | fract-ol        | [![beyildir's 42 fract-ol Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2927897)](https://github.com/bertayyldrm/42_Fract-Ol)
 | 7 | push_swap        | [![beyildir's 42 push_swap Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2953029)](https://github.com/bertayyldrm/42_Push_Swap)
-| 7 | philosophers        | [![beyildir's 42 push_swap Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2953029)](https://github.com/bertayyldrm/42_Philosophers)
-| 7 | minishell        | [![beyildir's 42 push_swap Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2953029)](https://github.com/bertayyldrm/42_Minishell)
-| 7 | cub3d        | [![beyildir's 42 push_swap Score](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/project/2953029)](https://github.com/bertayyldrm/42_Cub3D)
+| 7 | philosophers        | [![beyildir's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl69s5zuh001109m8y8xchgqr/project/2569052)](https://github.com/bertayyldrm/42_Philosophers)
+| 7 | minishell        | [![beyildir's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl69s5zuh001109m8y8xchgqr/project/2569052)](https://github.com/bertayyldrm/42_Minishell)
+| 7 | cub3d        | [![beyildir's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl69s5zuh001109m8y8xchgqr/project/2569052)](https://github.com/bertayyldrm/42_Cub3D)
 
 ![Profile views](https://gpvc.arturio.dev/beyildir)
 
