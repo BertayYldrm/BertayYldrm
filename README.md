@@ -9,9 +9,7 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
+
 
 </div>
 
@@ -22,10 +20,11 @@
 
 <div align="center">
 
-[[![beyildir's 42 stats](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/stats?cursusId=21&coalitionId=229)](https://github.com/bertayyldrm/)](https://badge42.vercel.app/api/v2/cl69s5zuh001109m8y8xchgqr/project/2569052)
-
+[![beyildir's 42 stats](https://badge42.vercel.app/api/v2/clcwu4fxj00060gm9hfmfwfct/stats?cursusId=21&coalitionId=365)](https://github.com/JaeSeoKim/badge42)
 </div>
+
 <div align="center">
+
 
 ## Ecole 42 Projects Progress
 | No | Project | Status  |  
@@ -41,7 +40,7 @@
 | 7 | minishell        | [![beyildir's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl69s5zuh001109m8y8xchgqr/project/2569052)](https://github.com/bertayyldrm/42_Minishell)
 | 7 | cub3d        | [![beyildir's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl69s5zuh001109m8y8xchgqr/project/2569052)](https://github.com/bertayyldrm/42_Cub3D)
 
-![Profile views](https://gpvc.arturio.dev/beyildir)
+<p align=""> <img src="https://komarev.com/ghpvc/?username=bertayyldrm&label=Profile%20views&color=0e75b6&style=flat" alt="bertayyldrm" /> </p>
 
 <div align="right">
   <a href="https://www.linkedin.com/in/bertay-y%C4%B1ld%C4%B1r%C4%B1m-017934215/" target="_blank">
